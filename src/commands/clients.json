@@ -1,0 +1,8 @@
+[
+  {
+    "nome": "Test",
+    "site": "https://teste.com.br",
+    "integrador": "https://teste.com.br",
+    "commands": ["teste"]
+  }
+]

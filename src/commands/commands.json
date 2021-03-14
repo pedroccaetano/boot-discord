@@ -1,0 +1,24 @@
+{
+  "commands": [
+    {
+      "name": "!servidores",
+      "value": "Verifica os status dos servidores de todos os clientes." 
+    },
+    {
+      "name": "!<nome_do_cliente>",
+      "value": "Irá verificar o status do servidor do cliente em especifico." 
+    },
+    {
+      "name": "!piada",
+      "value": "Imprime uma piada." 
+    },
+    {
+      "name": "!dia",
+      "value": "Imprime a frase do dia." 
+    },
+    {
+      "name": "!help",
+      "value": "Lista todos os comandos do bot." 
+    }
+  ]
+}
